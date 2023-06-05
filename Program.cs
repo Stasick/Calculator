@@ -16,7 +16,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("----- Rules -----");
-        Console.WriteLine("Enter Left num, operation, right num. Example [2 + 2]");
+        Console.WriteLine("Enter Left num, operation, right num.");
         Console.WriteLine("Calculator ignore any non-number symbols");
         Console.WriteLine("Calculator can calculate only one operation");
         Console.WriteLine("Write \"exit\" to exit");
